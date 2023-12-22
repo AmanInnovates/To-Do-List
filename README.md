@@ -12,5 +12,9 @@ Remove a task: Click on the "x" button next to the task.
 We welcome contributions! If you would like to contribute to the project, simply dive in and start making changes. 
 
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+
 ## Contact
 For questions or feedback, please contact vaman0118@gmail.com.
